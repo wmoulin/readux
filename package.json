@@ -1,0 +1,23 @@
+{
+  "name": "readux",
+  "version": "0.0.0",
+  "description": "squelette projet react redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wmoulin/readux"
+  },
+  "author": "Wilfried Moulin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wmoulin/readux/issues"
+  },
+  "homepage": "https://github.com/wmoulin/readux",
+  "dependencies": {
+    "react": "^15.1.0",
+    "redux": "^3.5.2"
+  }
+}
