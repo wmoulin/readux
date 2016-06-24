@@ -19,5 +19,9 @@
   "dependencies": {
     "react": "^15.1.0",
     "redux": "^3.5.2"
-  }
+  },
+  "devDependencies": {
+    "joobster": "0.0.7"
+  },
+  "main": "./src/js/app.js"
 }
